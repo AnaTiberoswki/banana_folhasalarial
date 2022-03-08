@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FolhaSalarial</string>
+
+    <string-array name="PlanoSaude">
+        <item name="Standard">Standard</item>
+        <item name="Basico">Básico</item>
+        <item name="Super">Super</item>
+        <item name="Master">Master</item>
+    </string-array>
+
+        <string name="peso">Peso</string>
+        <string name="altura">Altura</string>
+        <string name="valida_salBruto">Informe o Salário Bruto</string>
+        <string name="valida_depend">Informe o número de dependentes</string>
+    <string name="valida_VT">Informe a opção de Vale transporte</string>
+    <string name="valida_VA">Informe a opção de Vale alimentação</string>
+    <string name="valida_VR">Informe a opção de Vale refeição</string>
+
+
+</resources>
