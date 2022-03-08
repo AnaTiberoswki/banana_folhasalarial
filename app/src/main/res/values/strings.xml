@@ -16,5 +16,14 @@
     <string name="valida_VA">Informe a opção de Vale alimentação</string>
     <string name="valida_VR">Informe a opção de Vale refeição</string>
 
+    <string name="result_sb">Salário Bruto: %1$5.2f</string>
+    <string name="result_ps">Desc. plano de saúde: %1$5.2f</string>
+    <string name="result_vt">Vale Transporte: %1$5.2f</string>
+    <string name="result_vr">Vale Refeição: %1$5.2f</string>
+    <string name="result_va">Vale Alimentação: %1$5.2f</string>
+    <string name="result_inss">INSS: %1$5.2f</string>
+    <string name="result_irrf">IRRF: %1$5.2f</string>
+    <string name="result_sl">Salário Líquido: %1$5.2f</string>
+
 
 </resources>

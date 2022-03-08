@@ -181,8 +181,59 @@
 
            </LinearLayout>
 
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:id="@+id/tv_result_sb"
+               style="@style/text_view"/>
+
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:id="@+id/tv_result_ps"
+               style="@style/text_view"/>
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:id="@+id/tv_result_vt"
+               style="@style/text_view"/>
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:id="@+id/tv_result_vr"
+               style="@style/text_view"/>
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:id="@+id/tv_result_va"
+               style="@style/text_view"/>
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+
+               android:id="@+id/tv_result_inss"
+               style="@style/text_view"/>
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:id="@+id/tv_result_irrf"
+               style="@style/text_view"/>
+
+
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+
+               android:id="@+id/tv_result_sl"
+               style="@style/text_view"/>
+
        </LinearLayout>
-
-
 
 </ScrollView>
